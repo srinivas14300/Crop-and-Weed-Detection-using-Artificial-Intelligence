@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Crop & Weed AI Detector",
+  "description": "An AI-powered application for identifying crops and weeds for precision agriculture.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
